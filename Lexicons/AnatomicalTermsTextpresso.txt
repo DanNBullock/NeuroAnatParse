@@ -1,0 +1,3045 @@
+10n
+10t
+12n
+12t
+1n
+2n
+3V
+3n
+4V
+4n
+4x
+5n
+5t
+6a Alpha
+6b Beta
+6n
+7n
+8 Alpha
+8 Beta
+8 Gamma
+8 alpha
+8 beta
+8 gamma
+8A
+8B
+8a
+8n
+9b
+9c
+9n
+A I
+AA
+ABA
+AC
+AD
+AG
+AH
+AI
+ALCb
+AM
+ANG
+AO
+APO
+APRt
+APS
+AQL
+ASG
+ATTG
+AUDd
+AUDp
+AUDv
+AV
+Aals
+Abducens Nerve
+Abducens Nucleus
+Abducens nerve
+Abducens nucleus
+Abv
+Ac
+Adenohypophysis
+Afx
+Agranular Frontal Area 6
+Agranular Insular Area
+Agranular Retrolimbic Area 30
+Agranular frontal area 6
+Agranular insular area
+Agranular retrolimbic area 30
+Ahc
+Ahls
+Aic
+Alar Central Lobule
+Alv
+Amb
+Amdt
+Amf
+Amg
+Amiculum Of Dentate Nucleus
+Amiculum Of Inferior Olive
+Amiculum of dentate nucleus
+Amiculum of inferior olive
+Amio
+Aml
+Amts
+Amygdala
+AnG
+Annectant Gyrus(M)
+Ansa Lenticularis
+Ansa Peduncularis
+Ansa lenticularis
+Ansa peduncularis
+Ansiform Lobule
+Anterior Accessory Gyrus(h)
+Anterior Amygdaloid Area
+Anterior Ascending Limb Of Lateral Sulcus(h)
+Anterior Calcarine Sulcus(h)
+Anterior Cerebellar Incisure
+Anterior Cingulate Area
+Anterior Cingulate Gyrus
+Anterior Column Of Fornix
+Anterior Commissure
+Anterior Forceps Of Corpus Callosum
+Anterior Horizontal Limb Of Lateral Sulcus(h)
+Anterior Hypothalamic Commissure
+Anterior Hypothalamic Region
+Anterior Intraparietal Area
+Anterior Intraparietal Cortex
+Anterior Limb Of Internal Capsule
+Anterior Lobe Of Cerebellum
+Anterior Median Eminence
+Anterior Median Fissure
+Anterior Median Oculomotor Nucleus
+Anterior Middle Temporal Sulcus(m)
+Anterior Nuclear Group
+Anterior Nucleus Of Hypothalamus
+Anterior Occipital Sulcus(h)
+Anterior Olfactory Nucleus
+Anterior Parieto-occipital Sulcus(m)
+Anterior Parolfactory Sulcus(h)
+Anterior Part Of Anterior Commissure
+Anterior Perforated Substance
+Anterior Quadrangular Lobule
+Anterior Spinocerebellar Tract
+Anterior Subcentral Sulcus(h)
+Anterior Thalamic Peduncle
+Anterior Transverse Temporal Area 41(H)
+Anterior Transverse Temporal Gyrus(h)
+Anterior Tubercle
+Anterior accessory gyrus(h)
+Anterior amygdaloid area
+Anterior ascending limb of lateral sulcus(h)
+Anterior calcarine sulcus(h)
+Anterior cerebellar incisure
+Anterior cingulate area
+Anterior cingulate gyrus
+Anterior column of fornix
+Anterior commissure
+Anterior forceps of corpus callosum
+Anterior horizontal limb of lateral sulcus(h)
+Anterior hypothalamic commissure
+Anterior hypothalamic region
+Anterior intraparietal area
+Anterior intraparietal cortex
+Anterior limb of internal capsule
+Anterior lobe of cerebellum
+Anterior median eminence
+Anterior median fissure
+Anterior median oculomotor nucleus
+Anterior middle temporal sulcus(m)
+Anterior nuclear group
+Anterior nucleus of hypothalamus
+Anterior occipital sulcus(h)
+Anterior olfactory nucleus
+Anterior parieto-occipital sulcus(m)
+Anterior parolfactory sulcus(h)
+Anterior part of anterior commissure
+Anterior perforated substance
+Anterior quadrangular lobule
+Anterior spinocerebellar tract
+Anterior subcentral sulcus(h)
+Anterior thalamic peduncle
+Anterior transverse temporal area 41(H)
+Anterior transverse temporal gyrus(h)
+Anterior tubercle
+Anterodorsal Nucleus
+Anteromedial Nucleus
+Anteroventral Cochlear Nucleus
+Anteroventral Nucleus
+Anteroventral Periventricular Nucleusb
+Anteroventral cochlear nucleus
+Anteroventral nucleus
+Anteroventral periventricular nucleusb
+Aocs
+Ap
+Aq
+Arbor Vitae
+ArcH
+ArcM
+Archicortex
+Arcuate Nucleus Of Hypothalamus
+Arcuate Nucleus Of Medulla
+Arcuate nucleus of hypothalamus
+Arcuate nucleus of medulla
+Area 1 Of Brodmann-1909
+Area 1 Of Mauss-1908
+Area 1 Of Peele-1942
+Area 1 Of Vogts-1919
+Area 1 of Brodmann-1909
+Area 1 of Mauss-1908
+Area 1 of Peele-1942
+Area 1 of Vogts-1919
+Area 10 Of Brodmann-1909
+Area 10 Of Mauss-1908
+Area 10 Of Walker-1940
+Area 10 of Brodmann-1909
+Area 10 of Mauss-1908
+Area 10 of Walker-1940
+Area 10a Of Vogts-1919
+Area 11 Of Brodmann-1909
+Area 11 Of Mauss-1908
+Area 11 Of Walker-1940
+Area 11 of Brodmann-1909
+Area 11 of Mauss-1908
+Area 11 of Walker-1940
+Area 12 Of Brodmann-1909
+Area 12 Of Mauss-1908
+Area 12 Of Walker-1940
+Area 12 of Brodmann-1909
+Area 12 of Mauss-1908
+Area 12 of Walker-1940
+Area 13 Of Brodmann-1905
+Area 13 Of Mauss-1908
+Area 13 Of Walker-1940
+Area 13 of Brodmann-1905
+Area 13 of Mauss-1908
+Area 13 of Walker-1940
+Area 14 Of Brodmann-1905
+Area 14 Of Mauss-1908
+Area 14 Of Walker-1940
+Area 14 of Brodmann-1905
+Area 14 of Mauss-1908
+Area 14 of Walker-1940
+Area 15 Of Brodmann-1905
+Area 15 Of Mauss-1908
+Area 15 of Brodmann-1905
+Area 15 of Mauss-1908
+Area 16 Of Brodmann-1905
+Area 17 Of Mauss-1908
+Area 17 of Brodmann-1909
+Area 17 of Mauss-1908
+Area 18 Of Brodmann-1909
+Area 18 Of Mauss-1908
+Area 18 of Brodmann-1909
+Area 18 of Mauss-1908
+Area 19 Of Brodmann-1909
+Area 19 Of Mauss-1908
+Area 19 Of Vogts-1919
+Area 19 of Brodmann-1909
+Area 19 of Mauss-1908
+Area 19 of Vogts-1919
+Area 19a Of Vogts-1919
+Area 2 Of Brodmann-1909
+Area 2 Of Mauss-1908
+Area 2 Of Peele-1942
+Area 2 Of Vogts-1919
+Area 2 of Brodmann-1909
+Area 2 of Mauss-1908
+Area 2 of Peele-1942
+Area 2 of Vogts-1919
+Area 20 Of Brodmann-1909
+Area 20 Of Mauss-1908
+Area 20 of Brodmann-1909
+Area 20 of Mauss-1908
+Area 21 Of Brodmann-1909
+Area 21 Of Mauss-1908
+Area 21 Of Vogts-1919
+Area 21 of Brodmann-1909
+Area 21 of Mauss-1908
+Area 21 of Vogts-1919
+Area 22 Of Brodmann-1909
+Area 22 Of Mauss-1908
+Area 22 of Brodmann-1909
+Area 22 of Mauss-1908
+Area 22a Beta Of Vogts-1919
+Area 22a Of Vogts-1919
+Area 22a beta of Vogts-1919
+Area 22a of Vogts-1919
+Area 23 Of Brodmann-1909
+Area 23 Of Mauss-1908
+Area 23 of Brodmann-1909
+Area 23 of Mauss-1908
+Area 24 Of Brodmann-1905
+Area 24 Of Mauss-1908
+Area 24 Of Walker-1940
+Area 24 of Brodmann-1905
+Area 24 of Mauss-1908
+Area 24 of Walker-1940
+Area 25 Of Brodmann-1909
+Area 25 Of Walker-1940
+Area 25 of Brodmann-1909
+Area 25 of Walker-1940
+Area 26 Of Brodmann-1909
+Area 26 Of Mauss-1908
+Area 26 of Brodmann-1909
+Area 26 of Mauss-1908
+Area 27 Of Brodmann-1909
+Area 27 Of Mauss-1908
+Area 27 of Brodmann-1909
+Area 27 of Mauss-1908
+Area 28 Of Brodmann-1909
+Area 28 Of Mauss-1908
+Area 28 of Brodmann-1909
+Area 28 of Mauss-1908
+Area 3 Of Brodmann-1909
+Area 3 Of Mauss-1908
+Area 3 Of Peele-1942
+Area 3 Of Vogts-1919
+Area 3 of Brodmann-1909
+Area 3 of Mauss-1908
+Area 3 of Peele-1942
+Area 3 of Vogts-1919
+Area 30 Of Mauss-1908
+Area 32 Of Brodmann-1909
+Area 32 Of Mauss-1908
+Area 32 of Brodmann-1909
+Area 32 of Mauss-1908
+Area 3a Of Vogts-1919
+Area 4 Of Brodmann-1909
+Area 4 Of Mauss-1908
+Area 4 Of Vogts-1919
+Area 4 of Brodmann-1909
+Area 4 of Mauss-1908
+Area 4 of Vogts-1919
+Area 43 Of Brodmann-1909
+Area 45 Of Walker-1940
+Area 4a Of Vogts-1919
+Area 5 Of Brodmann-1909
+Area 5 Of Mauss-1908
+Area 5 Of Peele-1942
+Area 5 Of Vogts-1919
+Area 5 of Brodmann-1909
+Area 5 of Mauss-1908
+Area 5 of Peele-1942
+Area 5 of Vogts-1919
+Area 5a Of Vogts-1919
+Area 6 Of Brodmann-1909
+Area 6 Of Mauss-1908
+Area 6 Of Vogts-1919
+Area 6 Of Walker-1940
+Area 6 of Brodmann-1909
+Area 6 of Mauss-1908
+Area 6 of Vogts-1919
+Area 6 of Walker-1940
+Area 6a Alpha Of Vogts-1919
+Area 6a Beta Of Vogts-1919
+Area 6a Of Vogts-1919
+Area 6a alpha of Vogts-1919
+Area 6a beta of Vogts-1919
+Area 6a of Vogts-1919
+Area 6b Alpha Of Vogts-1919
+Area 6b Beta Of Vogts-1919
+Area 6b Of Vogts-1919
+Area 6b alpha of Vogts-1919
+Area 6b beta of Vogts-1919
+Area 6b of Vogts-1919
+Area 7 Of Brodmann-1909
+Area 7 Of Mauss-1908
+Area 7 Of Peele-1942
+Area 7 Of Vogts-1919
+Area 7 of Brodmann-1909
+Area 7 of Mauss-1908
+Area 7 of Peele-1942
+Area 7 of Vogts-1919
+Area 7a Of Vogts-1919
+Area 8 Alpha Of Vogts-1919
+Area 8 Beta Of Vogts-1919
+Area 8 Delta Of Vogts-1919
+Area 8 Gamma Of Vogts-1919
+Area 8 Of Brodmann-1909
+Area 8 Of Mauss-1908
+Area 8 Of Vogts-1919
+Area 8 Of Walker-1940
+Area 8 alpha of Vogts-1919
+Area 8 beta of Vogts-1919
+Area 8 delta of Vogts-1919
+Area 8 gamma of Vogts-1919
+Area 8 of Brodmann-1909
+Area 8 of Mauss-1908
+Area 8 of Vogts-1919
+Area 8 of Walker-1940
+Area 8A Of Walker-1940
+Area 8a Of Brodmann-1905
+Area 9 Of Brodmann-1909
+Area 9 Of Mauss-1908
+Area 9 Of Vogts-1919
+Area 9 Of Walker-1940
+Area 9 of Brodmann-1909
+Area 9 of Mauss-1908
+Area 9 of Vogts-1919
+Area 9 of Walker-1940
+Area 9a Of Vogts-1919
+Area MIPS
+Area POJ
+Area Postrema
+Area V1
+Area V2
+Area X
+Area mIPS
+Area postrema
+Area x
+Asc
+Atp
+Au1
+AuD
+AuV
+B05-1
+B05-2
+B05-3
+B05-4
+B05-5
+B05-6
+B05-7
+B05-8
+B05-9
+B09-1
+B09-2
+B09-3
+B09-4
+B09-5
+B09-6
+B09-7
+B09-8
+B09-9
+BA
+BB47-FA
+BB47-FB
+BB47-FC
+BB47-FF
+BB47-FL
+BB47-IA
+BB47-IB
+BB47-LA
+BB47-LC
+BB47-LE
+BB47-OA
+BB47-OB
+BB47-OC
+BB47-PA
+BB47-PB
+BB47-PC
+BB47-PE
+BB47-PF
+BB47-PG
+BB47-TA
+BB47-TB
+BB47-TC
+BB47-TE
+BB47-TF
+BB47-TG
+BB47-TH
+BCd
+BG
+BL
+BRL87-IPa
+BRL87-PGa
+BRL87-TAa
+BRL87-TE1
+BRL87-TE2
+BRL87-TE3
+BRL87-TEa
+BRL87-TEm
+BRL87-TPO
+Basal Amygdaloid Nucleus
+Basal Ganglia
+Basal Nucleus
+Basal Part Of Pons
+Basal amygdaloid nucleus
+Basal ganglia
+Basal nucleus
+Basal part of pons
+Basilar Sulcus
+Basolateral Nuclear Group
+Bcc
+Bfx
+Bic
+Biventer Lobulec
+Body Of Caudate Nucleus
+Body Of Corpus Callosum
+Body Of Fornix
+Body Of Lateral Ventricle
+Body of caudate nucleus
+Body of corpus callosum
+Body of fornix
+Body of lateral ventricle
+Bpons
+Brachium Of Inferior Colliculus
+Bsc
+Bss
+BvL
+C11n
+C3
+CA1
+CA2
+CA3
+CC
+CD
+CGM
+CGPn
+CIC
+CIPS
+CL
+CM
+COGNITIVE
+CP
+CSP
+Ca1 Field
+Ca2 Field
+Ca3 Field
+Calamus Scriptorius
+Calcar Avis
+Calcarine Sulcus
+Callosal Sulcus
+Capsule Of Medial Geniculate Body
+Capsule Of Red Nucleus
+Capsule Of Subthalamic Nucleus
+Capsule of medial geniculate body
+Capsule of red nucleus
+Capsule of subthalamic nucleus
+Cas
+Caudal Central Oculomotor Nucleus
+Caudal Cingulate Zone
+Caudal Intraparietal Sulcus
+Caudal Part Of Spinal Trigeminal Nucleus
+Caudal Part Of Ventral Lateral Nucleus
+Caudal Part Of Ventral Posterolateral Nucleus
+Caudal Pontine Reticular Nucleus
+Caudal central oculomotor nucleus
+Caudal cingulate zone
+Caudal intraparietal sulcus
+Caudal part of spinal trigeminal nucleus
+Caudal part of ventral lateral nucleus
+Caudal part of ventral posterolateral nucleus
+Caudal pontine reticular nucleus
+Caudate Nucleus
+Cav
+Cb
+Cc
+Cd
+CeA
+Central Amygdaloid Nucleus
+Central Canal
+Central Dorsal Nucleus
+Central Gray Substance Of Medulla
+Central Gray Substance Of Midbrain
+Central Gray Substance Of Pons
+Central Insular Sulcus
+Central Lateral Nucleus
+Central Lobule
+Central Medial Nucleus
+Central Medullary Reticular Group
+Central Nucleus Of Inferior Colliculus
+Central Oculomotor Nucleus
+Central Sulcus
+Central Tegmental Tract Of Midbrain
+Central Tegmental Tract Of Pons
+Central amygdaloid nucleus
+Central canal
+Central dorsal nucleus
+Central gray substance of medulla
+Central gray substance of midbrain
+Central gray substance of pons
+Central insular sulcus
+Central lateral nucleus
+Central lobule
+Central medial nucleus
+Central medullary reticular group
+Central nucleus of inferior colliculus
+Central oculomotor nucleus
+Central sulcus
+Central tegmental tract of midbrain
+Central tegmental tract of pons
+Centromedian Nucleus
+Cerebellar Cortex
+Cerebellar Tonsil
+Cerebellar White Matter
+Cerebellar cortex
+Cerebellar tonsil
+Cerebellar white matter
+Cerebellomedullary Cistern
+Cerebellopontine Angle
+Cerebellum
+Cerebral Aqueduct
+Cerebral Cortexd
+Cerebral Crus
+Cerebral Peduncle
+Cerebral White Matter
+Cerebral aqueduct
+Cerebral cortexd
+Cerebral crus
+Cerebral peduncle
+Cerebral white matter
+Cerebrocerebellar Fissure
+Cfx
+CgG
+Cgs
+Chf
+Chiasmatic Cistern
+Choroid Plexus Of Fourth Ventricle
+Choroid Plexus Of Lateral Ventricle
+Choroid Plexus Of Third Ventricle
+Choroid plexus of fourth ventricle
+Choroid plexus of lateral ventricle
+Choroid plexus of third ventricle
+Choroidal Fissure
+Cic
+Cingulate Cortex,Area 1
+Cingulate Gyrus
+Cingulate Motor Areas
+Cingulate Sulcus
+Cingulate cortex,area 1
+Cingulate gyrus
+Cingulate motor areas
+Cingulate sulcus
+Circular Sulcus Of Insula
+Cis
+Cl
+Cm10
+Cmcis
+Cmg
+CnF
+Co
+Cp3v
+Cp4v
+Cplv
+Cr
+Cs
+Ctgmb
+Ctgp
+Ctt
+Cu
+Cw
+Cx
+D3
+D5
+D7
+DB
+DCb
+DCo
+DG
+DH
+DIO
+DLG
+DLL
+DLSol
+DMG
+DMH
+DMSol
+DPGi
+DPRt
+DR
+DS
+DTg
+Das
+Db
+Dea
+Dec
+Deep Cerebellar Nuclei
+Deep Gray Layer Of Superior Colliculus
+Deep White Layer Of Superior Colliculus
+Deep cerebellar nuclei
+Deep gray layer of superior colliculus
+Deep white layer of superior colliculus
+Densocellular Part Of Medial Dorsal Nucleus
+Dentate Gyrus
+Dentate Nucleus
+Dentate gyrus
+Dentate nucleus
+Dentatothalamic Tract
+Descending Fibers Of Facial Nerve
+Dfm
+DiE
+Diagonal Band
+Diagonal Sulcus(h)
+Diagonal band
+Diagonal sulcus(h)
+Dias
+Diencephalon
+Diffuse Reticular Nucleus
+Dis
+Dk
+Dlfh
+Dlfm
+Dlfp
+Dls
+Dms
+Dorsal Accessory Inferior Olivary Nucleus
+Dorsal Acoustic Stria
+Dorsal Cochlear Nucleus
+Dorsal Entorhinal Area 34
+Dorsal External Arcuate Fibers
+Dorsal Hypothalamic Area
+Dorsal Intermediate Sulcus
+Dorsal Longitudinal Fasciculus Of Hypothalamus
+Dorsal Longitudinal Fasciculus Of Medulla
+Dorsal Longitudinal Fasciculus Of Midbrain
+Dorsal Longitudinal Fasciculus Of Pons
+Dorsal Median Sulcus
+Dorsal Motor Nucleus Of Vagus Nerve
+Dorsal Nucleus Of Lateral Geniculate Body
+Dorsal Nucleus Of Lateral Lemniscus
+Dorsal Nucleus Of Medial Geniculate Body
+Dorsal Oculomotor Nucleus
+Dorsal Paragigantocellular Nucleus
+Dorsal Paramedian Reticular Nucleus
+Dorsal Posterior Cingulate Area 31
+Dorsal Premotor Cortex
+Dorsal Raphe Nucleus
+Dorsal Septal Nucleus
+Dorsal Spinocerebellar Tract
+Dorsal Supraoptic Decussation
+Dorsal Tegmental Decussatione
+Dorsal Tegmental Nucleus
+Dorsal Trigeminal Tract
+Dorsal accessory inferior olivary nucleus
+Dorsal acoustic stria
+Dorsal cochlear nucleus
+Dorsal entorhinal area 34
+Dorsal external arcuate fibers
+Dorsal hypothalamic area
+Dorsal intermediate sulcus
+Dorsal longitudinal fasciculus of hypothalamus
+Dorsal longitudinal fasciculus of medulla
+Dorsal longitudinal fasciculus of midbrain
+Dorsal longitudinal fasciculus of pons
+Dorsal median sulcus
+Dorsal motor nucleus of vagus nerve
+Dorsal nucleus of lateral geniculate body
+Dorsal nucleus of lateral lemniscus
+Dorsal nucleus of medial geniculate body
+Dorsal oculomotor nucleus
+Dorsal paragigantocellular nucleus
+Dorsal paramedian reticular nucleus
+Dorsal posterior cingulate area 31
+Dorsal premotor cortex
+Dorsal raphe nucleus
+Dorsal septal nucleus
+Dorsal spinocerebellar tract
+Dorsal supraoptic decussation
+Dorsal tegmental decussatione
+Dorsal tegmental nucleus
+Dorsal trigeminal tract
+Dorsolateral Fasciculus Of Medulla
+Dorsolateral Fissure Of Midbrain
+Dorsolateral Subnucleus Of Solitary Tract
+Dorsolateral Sulcus
+Dorsolateral fasciculus of medulla
+Dorsolateral fissure of midbrain
+Dorsolateral subnucleus of solitary tract
+Dorsolateral sulcus
+Dorsomedial Nucleus Of Hypothalamus
+Dorsomedial Subnucleus Of Solitary Tract
+Dorsomedial nucleus of hypothalamus
+Dorsomedial subnucleus of solitary tract
+DpG
+DpWh
+Dsc
+Dsox
+Dt
+EBA
+EIC
+ETh
+Ec
+Emb
+Eml
+Ent
+Epithalamus
+Exc
+External Capsule
+External Medullary Lamina
+External Nucleus Of Inferior Colliculus
+External capsule
+External medullary lamina
+External nucleus of inferior colliculus
+Extrastriate Body Area
+Extreme Capsulef
+FB
+FEF
+FFA
+FG
+FH
+FL
+FNL
+FOAP00-10m
+FOAP00-11l
+FOAP00-12m
+FOAP00-13a
+FOAP00-14c
+FOAP00-24a
+FOAP00-25
+FOAP00-32
+FOAP00-45
+FOAP00-46
+FOAP00-6
+FOAP00-8
+FOAP00-9
+FOAP00-Iai
+FOAP00-PrCO
+FOG
+FV91-1
+FV91-2
+FV91-30
+FV91-32
+FV91-35
+FV91-36
+FV91-3a
+FV91-3b
+FV91-4
+FV91-5
+FV91-6
+FV91-7a
+FV91-7b
+FV91-9
+FV91-A1
+FV91-AI
+FV91-AUD
+FV91-CA1
+FV91-CA3
+FV91-CITd
+FV91-CITv
+FV91-CM
+FV91-DP
+FV91-ER
+FV91-FEF
+FV91-FST
+FV91-G
+FV91-Id
+FV91-Ig
+FV91-L
+FV91-MDP
+FV91-MIP
+FV91-MSTd
+FV91-MSTl
+FV91-MT
+FV91-PA
+FV91-PIP
+FV91-PIR
+FV91-PITd
+FV91-PITv
+FV91-PO
+FV91-PS
+FV91-PaS
+FV91-Pall
+FV91-PrS
+FV91-Pro
+FV91-RL
+FV91-Ri
+FV91-S
+FV91-TF
+FV91-TH
+FV91-V1
+FV91-V2
+FV91-V3
+FV91-V4
+FV91-VIP
+FV91-VOT
+FV91-VP
+Facial Colliculus
+Facial Motor Nucleus
+Facial Nerve
+Facial colliculus
+Facial motor nucleus
+Facial nerve
+Fas
+Fc
+Fd
+Fi
+Fl
+Fol
+Foramen Cecum Anterior
+Foramen Cecum Posterior
+Foramen cecum anterior
+Foramen cecum posterior
+Forebrain
+Fornixg
+Fourth Ventricle
+Fro
+Frp
+Fsp
+Ft
+FuG
+Funiculus Separans
+Fusiform Face Area
+Fusiform Gyrus
+Fusiform face area
+Fusiform gyrus
+Fx
+G7
+GFGK99-V3
+GFGK99-V6
+GP
+GRe
+Gcc
+Genu Of Corpus Callosum
+Genu Of Internal Capsule
+Genu of corpus callosum
+Genu of internal capsule
+Gi
+Glo
+Gr
+Gyrus Rectus
+H1
+H2
+HAL
+HB
+HCd
+HP
+Habenula
+Habenulo-interpeduncular Tract
+Hb
+Hdg
+Hdt
+Head Of Caudate Nucleus
+Hemisphere Of Anterior Lobe
+Hemisphere Of Posterior Lobe
+Hemisphere of anterior lobe
+Hemisphere of posterior lobe
+Hi
+Horizontal Fissurei
+Hy
+Hzf
+I3
+IA
+IC
+IFG
+IG
+IHP
+IHR
+ILG
+IO
+IP
+IRe
+IS
+ITG
+IVe
+Ia
+Ic
+Ifol
+Ifrs
+Ifv
+Ils
+Iml
+Imn
+Imv
+Induseum Griseum
+InfS
+Inferior Calcarine Sulcus(m)
+Inferior Central Nucleus
+Inferior Cerebellar Peduncle
+Inferior Colliculus
+Inferior Fovea
+Inferior Frontal Gyrus
+Inferior Frontal Sulcus(h)
+Inferior Medullary Lamina
+Inferior Medullary Velum
+Inferior Occipital Gyrus(m)
+Inferior Occipital Sulcus(m)
+Inferior Olivary Complex
+Inferior Parietal Lobule
+Inferior Pontine Sulcus
+Inferior Postcentral Sulcus
+Inferior Precentral Sulcus(h)
+Inferior Pulvinar Nucleus
+Inferior Ramus Of Arcuate Sulcus(m)
+Inferior Rostral Sulcus(h)
+Inferior Salivatory Nucleus
+Inferior Semilunar Lobule
+Inferior Temporal Gyrus
+Inferior Temporal Sulcus(h)
+Inferior Thalamic Peduncle
+Inferior Vestibular Nucleus
+Inferior calcarine sulcus(m)
+Inferior central nucleus
+Inferior cerebellar peduncle
+Inferior colliculus
+Inferior fovea
+Inferior frontal gyrus
+Inferior frontal sulcus(h)
+Inferior medullary lamina
+Inferior medullary velum
+Inferior occipital gyrus(m)
+Inferior occipital sulcus(m)
+Inferior olivary complex
+Inferior parietal lobule
+Inferior pontine sulcus
+Inferior postcentral sulcus
+Inferior precentral sulcus(h)
+Inferior pulvinar nucleus
+Inferior ramus of arcuate sulcus(m)
+Inferior rostral sulcus(h)
+Inferior salivatory nucleus
+Inferior semilunar lobule
+Inferior temporal gyrus
+Inferior temporal sulcus(h)
+Inferior thalamic peduncle
+Inferior vestibular nucleus
+Infundibular Recess
+Infundibular Stem
+Infundibular recess
+Infundibular stem
+Inml
+Ins
+Intercalated Amygdaloid Nuclei
+Intermediate Acoustic Stria
+Intermediate Hypothalamic Region
+Intermediate Nerve
+Intermediate Oculomotor Nucleus
+Intermediate Part Of Hypophysis
+Intermediate Periventricular Nucleus
+Intermediate Short Gyrus(h)
+Intermediate acoustic stria
+Intermediate hypothalamic region
+Intermediate nerve
+Intermediate oculomotor nucleus
+Intermediate part of hypophysis
+Intermediate periventricular nucleus
+Intermediate short gyrus(h)
+Internal Arcuate Fibers
+Internal Capsule
+Internal Genu Of Facial Nerve
+Internal Medullary Lamina
+Internal arcuate fibers
+Internal capsule
+Internal genu of facial nerve
+Internal medullary lamina
+Interpeduncular Cistern
+Interpeduncular Fossa
+Interpeduncular Nucleus
+Interpeduncular cistern
+Interpeduncular fossa
+Interpeduncular nucleus
+Interpolar Part Of Spinal Trigeminal Nucleus
+Interstitial Nucleus Of Cajal
+Interstitial Nucleus Of Vestibular Nerve
+Interstitial nucleus of cajal
+Interstitial nucleus of vestibular nerve
+Interthalamic Adhesion
+Interventricular Foramenj
+Intracingulate Sulcus
+Intralaminar Nuclear Group
+Intralingual Sulcus(h)
+Intraparietal Sulcus
+Iocs
+Ipcs
+Ipf
+Iprs
+Ips
+Iras
+Iros
+Islands Of Calleja
+Isthmus Of Cingulate Gyrus
+Itha
+Itp
+Ivf
+Juxtarestiform Bodykl
+Jx
+Kinetic Occipital Area
+LA
+LC
+LD
+LG
+LH
+LIG
+LIP
+LK02-MT
+LK02-PIP
+LK02-V1
+LK02-V2d
+LK02-V2v
+LK02-V3a
+LK02-V3d
+LK02-V3v
+LK02-V4d
+LK02-V4v
+LM
+LNG
+LO
+LP
+LR4V
+LRt
+LS
+LT
+LV
+Lamina Affixa
+Lamina Of Septum Pellucidum
+Lamina Terminalis
+Lamina affixa
+Lamina of septum pellucidum
+Lamina terminalis
+Lateral Amygdaloid Nucleus
+Lateral Aperture Of Fourth Ventricle
+Lateral Corticospinal Tract
+Lateral Dorsal Nucleus
+Lateral Eminence Of Hypophysis
+Lateral Geniculate Body
+Lateral Globus Pallidus
+Lateral Habenular Nucleus
+Lateral Hypothalamic Area
+Lateral Hypothalamic Nucleus
+Lateral Intraparietal Area
+Lateral Lemniscus
+Lateral Longitudinal Stria
+Lateral Mammillary Nucleus
+Lateral Medullary Lamina
+Lateral Medullary Reticular Group
+Lateral Nuclear Group
+Lateral Occipital Complex
+Lateral Occipital Gyrus(h)
+Lateral Occipital Sulcus(h)
+Lateral Olfactory Stria
+Lateral Orbital Gyrus
+Lateral Orbital Sulcus(m)
+Lateral Parabrachial Nucleus
+Lateral Paragigantocellular Nucleus
+Lateral Part Of Basal Amygdaloid Nucleus
+Lateral Part Of Medial Mammillary Nucleus
+Lateral Pericuneate Nucleus
+Lateral Pes Lemniscus
+Lateral Posterior Nucleus
+Lateral Premotor Cortex
+Lateral Preoptic Nucleus
+Lateral Pulvinar Nucleus
+Lateral Recess Of Fourth Ventricle
+Lateral Reticular Nucleus
+Lateral Septal Nucleus
+Lateral Sulcus
+Lateral Superior Olivary Nucleus
+Lateral Temporal Lobe
+Lateral Tuberal Nuclei
+Lateral Ventricle
+Lateral Vestibular Nucleusm
+Lateral amygdaloid nucleus
+Lateral aperture of fourth ventricle
+Lateral corticospinal tract
+Lateral dorsal nucleus
+Lateral eminence of hypophysis
+Lateral geniculate body
+Lateral globus pallidus
+Lateral habenular nucleus
+Lateral hypothalamic area
+Lateral hypothalamic nucleus
+Lateral intraparietal area
+Lateral lemniscus
+Lateral longitudinal stria
+Lateral mammillary nucleus
+Lateral medullary lamina
+Lateral medullary reticular group
+Lateral nuclear group
+Lateral occipital gyrus(h)
+Lateral occipital sulcus(h)
+Lateral olfactory stria
+Lateral orbital gyrus
+Lateral orbital sulcus(m)
+Lateral parabrachial nucleus
+Lateral paragigantocellular nucleus
+Lateral part of basal amygdaloid nucleus
+Lateral part of medial mammillary nucleus
+Lateral pericuneate nucleus
+Lateral pes lemniscus
+Lateral posterior nucleus
+Lateral premotor cortex
+Lateral preoptic nucleus
+Lateral pulvinar nucleus
+Lateral recess of fourth ventricle
+Lateral reticular nucleus
+Lateral septal nucleus
+Lateral sulcus
+Lateral superior olivary nucleus
+Lateral temporal lobe
+Lateral tuberal nuclei
+Lateral ventricle
+Lateral vestibular nucleusm
+Lcsp
+Lehp
+Lemniscal Trigone
+Len
+Lf
+Lg
+Li
+Ll
+Lma
+Lmi
+Lml
+Lmt
+Lo
+Lp
+Ls
+Ltic
+Lunate Sulcus
+Lus
+M1
+M3
+MA4V
+MAH
+MB
+MD
+ME
+MFG
+MG
+MHb
+MIO
+MM
+MNG
+MO
+MPB
+MPCu
+MPO
+MPul
+MS
+MT
+MVe
+MWh
+Magnocellular Nucleus Of Medial Geniculate Body
+Magnocellular Part Of Medial Dorsal Nucleus
+Magnocellular Part Of Red Nucleus
+Magnocellular Part Of Ventral Anterior Nucleus
+Magnocellular nucleus of medial geniculate body
+Magnocellular part of medial dorsal nucleus
+Magnocellular part of red nucleus
+Magnocellular part of ventral anterior nucleus
+Mammillary Body
+Mammillary Peduncle
+Mammillary Princeps Fasciculus
+Mammillary body
+Mammillary peduncle
+Mammillary princeps fasciculus
+Mammillotegmental Fasciculus
+Mammillothalamic Tract Of Hypothalamus
+Mammillothalamic Tract Of Thalamus
+Mammillothalamic tract of hypothalamus
+Mammillothalamic tract of thalamus
+Marginal Sulcus(h)
+Mcp
+Mdb
+Mds
+Me4v
+Me5
+MeA
+MeE
+MeRF
+Medial Accessory Inferior Olivary Nucleus
+Medial Amygdaloid Nucleus
+Medial Dorsal Nucleus
+Medial Eminence Of Fourth Ventricle
+Medial Forebrain Bundle
+Medial Geniculate Body
+Medial Globus Pallidus
+Medial Habenular Nucleus
+Medial Lemniscus Of Medulla
+Medial Lemniscus Of Midbrain
+Medial Lemniscus Of Pons
+Medial Longitudinal Fasciculus Of Medulla
+Medial Longitudinal Fasciculus Of Midbrain
+Medial Longitudinal Fasciculus Of Pons
+Medial Longitudinal Stria
+Medial Mammillary Nucleus
+Medial Medullary Lamina
+Medial Oculomotor Nucleus
+Medial Olfactory Gyrus
+Medial Orbital Gyrus
+Medial Orbital Sulcus(m)
+Medial Parabrachial Nucleus
+Medial Part Of Basal Amygdaloid Nucleus
+Medial Part Of Medial Mammillary Nucleus
+Medial Part Of Ventral Lateral Nucleus
+Medial Pericuneate Nucleus
+Medial Pes Lemniscus
+Medial Preoptic Nucleus
+Medial Pulvinar Nucleus
+Medial Septal Nucleus
+Medial Subnucleus Of Solitary Tract
+Medial Superior Olivary Nucleus
+Medial Vestibular Nucleus
+Medial accessory inferior olivary nucleus
+Medial amygdaloid nucleus
+Medial dorsal nucleus
+Medial eminence of fourth ventricle
+Medial forebrain bundle
+Medial geniculate body
+Medial globus pallidus
+Medial habenular nucleus
+Medial lemniscus of medulla
+Medial lemniscus of midbrain
+Medial lemniscus of pons
+Medial longitudinal fasciculus of medulla
+Medial longitudinal fasciculus of midbrain
+Medial longitudinal fasciculus of pons
+Medial longitudinal stria
+Medial mammillary nucleus
+Medial medullary lamina
+Medial oculomotor nucleus
+Medial olfactory gyrus
+Medial orbital gyrus
+Medial orbital sulcus(m)
+Medial parabrachial nucleus
+Medial part of basal amygdaloid nucleus
+Medial part of medial mammillary nucleus
+Medial part of ventral lateral nucleus
+Medial pericuneate nucleus
+Medial pes lemniscus
+Medial preoptic nucleus
+Medial pulvinar nucleus
+Medial septal nucleus
+Medial subnucleus of solitary tract
+Medial superior olivary nucleus
+Medial vestibular nucleus
+Median Aperture Of Fourth Ventricle
+Median Eminence
+Median Preoptic Nucleus
+Median Sulcus
+Median aperture of fourth ventricle
+Median eminence
+Median preoptic nucleus
+Median sulcus
+Medulla Oblongata
+Medullary Anterior Horn
+Medullary Body
+Medullary Reticular Formation
+Medullary White Matter
+Medullary anterior horn
+Medullary body
+Medullary reticular formation
+Medullary white matter
+Mesencephalic Nucleus Of Trigeminal Nerve
+Mesencephalic Tract Of Trigeminal Nerve
+Mesencephalic nucleus of trigeminal nerve
+Mesencephalic tract of trigeminal nerve
+Met
+Mfb
+Mfs
+Midbrain
+Middle Cerebellar Peduncle
+Middle Frontal Area 46
+Middle Frontal Gyrus
+Middle Frontal Sulcus(h)
+Middle Gray Layer Of Superior Colliculus
+Middle Temporal Gyrus
+Middle Temporal Sulcus(m)
+Middle White Layer Of Superior Colliculusn
+Middle cerebellar peduncle
+Middle frontal area 46
+Middle frontal gyrus
+Middle frontal sulcus(h)
+Middle gray layer of superior colliculus
+Middle temporal gyrus
+Middle temporal sulcus(m)
+Middle white layer of superior colliculusn
+Midline Nuclear Group
+Mlfm
+Mlfp
+Mlm
+Mlp
+Mls
+Mlx
+Mmb
+Mml
+MnPO
+Mo5
+Mos
+Motor Nucleus Of Trigeminal Nerve
+Motor Root Of Trigeminal Nerve
+Motor nucleus of trigeminal nerve
+Motor root of trigeminal nerve
+Mpe
+Mpl
+Mpr
+Mtg
+Mthh
+Mthth
+Mts
+Mw
+NDt
+NHP
+Nd
+Neodentate Part Of Dentate Nucleus
+Neurohypophysiso
+Nodulus
+Nucleus Accumbens
+Nucleus Ambiguus
+Nucleus Intercalatus
+Nucleus Of Ansa Lenticularis
+Nucleus Of Anterior Commissure
+Nucleus Of Darkschewitsch
+Nucleus Of Diagonal Band
+Nucleus Of Field H
+Nucleus Of Lateral Olfactory Tract
+Nucleus Of Medial Eminence
+Nucleus Of Optic Tract
+Nucleus Of Posterior Commissure
+Nucleus Of Pretectal Area
+Nucleus Of Stria Terminalis
+Nucleus Prepositus
+Nucleus Raphe Magnus
+Nucleus Raphe Obscurus
+Nucleus Raphe Pallidus
+Nucleus Subceruleus
+Nucleus accumbens
+Nucleus ambiguus
+Nucleus intercalatus
+Nucleus of ansa lenticularis
+Nucleus of anterior commissure
+Nucleus of darkschewitsch
+Nucleus of diagonal band
+Nucleus of field h
+Nucleus of lateral olfactory tract
+Nucleus of medial eminence
+Nucleus of optic tract
+Nucleus of posterior commissure
+Nucleus of pretectal area
+Nucleus of stria terminalis
+Nucleus prepositus
+Nucleus raphe magnus
+Nucleus raphe obscurus
+Nucleus raphe pallidus
+Nucleus subceruleus
+OG
+OL
+OPt
+OPul
+ORe
+OSp5
+OT
+Ob
+Oc
+Olf
+Olivary Pretectal Nucleus
+Olivocerebellar Tract
+Olivocochlear Bundle
+Olt
+OpIFG
+Opercular Area 44
+Opercular Part Of Inferior Frontal Gyrus(h)
+Opercular area 44
+Opercular part of inferior frontal gyrus(h)
+Opt
+OrG
+OrIFG
+Oral Part Of Spinal Trigeminal Nucleus
+Oral Part Of Ventral Lateral Nucleus
+Oral Part Of Ventral Posterolateral Nucleus
+Oral Pontine Reticular Nucleus
+Oral Pulvinar Nucleus
+Oral part of spinal trigeminal nucleus
+Oral part of ventral lateral nucleus
+Oral part of ventral posterolateral nucleus
+Oral pontine reticular nucleus
+Oral pulvinar nucleus
+Orbital Area 47
+Orbital Gyri
+Orbital Operculum
+Orbital Part Of Inferior Frontal Gyrus(h)
+Orbital Sulcus(h)
+Orbital area 47
+Orbital gyri
+Orbital operculum
+Orbital part of inferior frontal gyrus(h)
+Orbital sulcus(h)
+Orbs
+Oro
+Ots
+Ox
+PA
+PBG
+PC
+PDt
+PF
+PG91-10
+PG91-11
+PG91-12orb
+PG91-12vl
+PG91-13L
+PG91-13M
+PG91-14A
+PG91-14M
+PG91-14V
+PG91-24
+PG91-45
+PG91-46d
+PG91-46r
+PG91-46v
+PG91-6D
+PG91-6M
+PG91-6V
+PG91-7al
+PG91-7am
+PG91-7b
+PG91-8Ac
+PG91-8Ar
+PG91-8Bd
+PG91-8Bm
+PG91-9d
+PG91-9m
+PG91-FPC
+PG91-IG
+PG91-IL
+PG91-LIP
+PG91-MFc
+PG91-MFr
+PG91-OFO
+PG91-PL
+PG91-Para
+PG91-PrCO
+PG91-VIP
+PH
+PL
+PME
+PMRt
+PMd
+PMm
+PMv
+PNC
+PNHP
+POA
+POP
+PPA
+PPHG
+PPTg
+PPd
+PPe
+PPt
+PRF
+PSol
+PT
+PV
+Pa
+Pc
+Pd
+Pe5
+PeO
+Peduncle Of Flocculus
+Peduncle Of Superior Olive
+Peduncle of flocculus
+Peduncle of superior olive
+Pedunculopontine Tegmental Nucleus
+Periamygdaloid Area
+Pericentral Nucleus Of Inferior Colliculus
+Periolivary Nucleus
+Peripaleocortical Claustral Region
+Peripeduncular Nucleus
+Perirhinal Area 35
+Peristriate Area 19
+Peritrigeminal Nucleus
+Pfcb
+Pfl
+Pfx
+Phb
+Pi
+Plf
+Pms
+Pmts
+Pn
+PoG
+Poce
+Pocs
+Pofcb
+Pofx
+Pon
+Pos
+Ppos
+Ppyf
+Pr5
+PrG
+PrIO
+PrO
+PrP
+PrS
+Pre-PMd
+Pre-SMA
+Pre-supplementary Motor Area
+Precentral Fissure Of Cerebellum
+Precentral Gyrus
+Precentral Operculum
+Precentral fissure of cerebellum
+Precentral gyrus
+Precentral operculum
+Precommissural Fornix
+Precuneus
+Predorsal Bundle
+Prefrontal Area 11 Of Brodmann-1909
+Pregenual Area 33
+Premammillary Nucleus
+Premotor Cortex
+Preoccipital Notch
+Preolivary Nucleus
+Preoptic Area
+Preoptic Periventricular Nucleus
+Preoptic area
+Preoptic periventricular nucleus
+Prepyramidal Fissure
+Prepyriform Area
+Presubiculum
+Pretectal Region
+Prfcb
+Primary Auditory Area
+Primary Auditory Cortex
+Primary Fissure Of Cerebellum
+Primary Motor Cortex
+Primary Visual Cortex
+Primary auditory area
+Primary auditory cortex
+Primary fissure of cerebellum
+Primary motor cortex
+Primary visual cortex
+Principal Inferior Olivary Nucleus
+Principal Part Of Ventral Posteromedial Nucleus
+Principal Pretectal Nucleus
+Principal Sensory Nucleus Of Trigeminal Nerve
+Principal Sulcus(m)
+Principal inferior olivary nucleus
+Principal part of ventral posteromedial nucleus
+Principal pretectal nucleus
+Principal sensory nucleus of trigeminal nerve
+Principal sulcus(m)
+Pro
+Prs
+Pscs
+Psf
+Pso
+Ptf
+Ptp
+Pu
+Py
+RCZ
+RCh
+RI
+RMC
+RMg
+RO
+RPC
+RPa
+RPn
+RaM
+Raphe Nuclei Of Medulla
+Rcc
+Re
+Rh
+Rlic
+Rols
+Ros
+Rs
+Rt
+Rubrospinal Tract
+SC
+SEF
+SF
+SG
+SI
+SL
+SM
+SN
+SO
+SP78-IPa
+SP78-OAa
+SP78-PGa
+SP78-TAa
+SP78-TE1
+SP78-TE2
+SP78-TE3
+SP78-TEa
+SP78-TEm
+SP78-TPO
+SP86-IPd
+SP86-POae
+SP86-POai
+SPL
+SPiRe
+SSL
+SSp
+STG
+STS
+STh
+SZ
+Sbps
+Scc
+Scf
+Scis
+Scp
+Second Auditory Area
+Second Posterior Central Gyrus(h)
+Second Short Gyrus(h)
+Second auditory area
+Second posterior central gyrus(h)
+Second short gyrus(h)
+Secondary Auditory Cortex,Dorsal Area
+Secondary Auditory Cortex,Ventral Area
+Secondary Fissure
+Secondary auditory cortex,dorsal area
+Secondary auditory cortex,ventral area
+Secondary fissure
+Semioval Center
+Septal Nuclei
+Septofimbrial Nucleus
+Septum
+Sf
+Short Insular Gyri(h)
+Simian Fossa(m)
+Simple Lobule
+Slic
+Slm
+Sm
+SoC
+Soh
+Sol
+Sovc
+Sp5
+Spcs
+Spinal Trigeminal Nucleus
+Spinal Trigeminal Tract Of Medulla
+Spinal Trigeminal Tract Of Pons
+Spinal trigeminal nucleus
+Spinal trigeminal tract of medulla
+Spinal trigeminal tract of pons
+Spino-olivary Tract
+Spinothalamic Tract Of Medulla
+Spinothalamic Tract Of Midbrain
+Spinothalamic Tract Of Pons
+Spinothalamic tract of medulla
+Spinothalamic tract of midbrain
+Spinothalamic tract of pons
+Splenium Of Corpus Callosum
+Spo
+Sprs
+Sps
+Spt
+Sras
+Sros
+St
+SuC
+SuG
+SuM
+SuS
+SuVe
+SuWh
+SubC
+SubTh
+Subcallosal Area
+Subcommissural Organ
+Subcuneiform Nucleus
+Subfascicular Nucleus
+Subfornical Organ
+Subgenual Area 25
+Subiculum
+Sublenticular Part Of Internal Capsule
+Sublentiform Nucleus
+Sublingual Nucleus
+Submedial Nucleus
+Subparietal Sulcus
+Substantia Innominata
+Substantia Nigra
+Substantia innominata
+Substantia nigra
+Subthalamic Nucleus
+Subthalamus
+Sulcus Limitans
+Sumx
+Superficial Gray Layer Of Superior Colliculus
+Superficial White Layer Of Superior Colliculus
+Superficial gray layer of superior colliculus
+Superficial white layer of superior colliculus
+Superior Calcarine Sulcus(m)
+Superior Central Nucleus
+Superior Cerebellar Peduncle
+Superior Cistern
+Superior Colliculus
+Superior Fovea
+Superior Frontal Gyrus
+Superior Frontal Sulcus(h)
+Superior Medullary Lamina
+Superior Medullary Velum
+Superior Occipital Gyrus(h)
+Superior Olivary Complex
+Superior Parietal Lobule
+Superior Pontine Sulcus
+Superior Postcentral Sulcus
+Superior Precentral Sulcus
+Superior Ramus Of Arcuate Sulcus(m)
+Superior Rostral Sulcus(h)
+Superior Salivatory Nucleus
+Superior Semilunar Lobule
+Superior Temporal Gyrus
+Superior Temporal Sulcus
+Superior Thalamic Peduncle
+Superior Vestibular Nucleus
+Superior calcarine sulcus(m)
+Superior central nucleus
+Superior cerebellar peduncle
+Superior cistern
+Superior colliculus
+Superior fovea
+Superior frontal gyrus
+Superior frontal sulcus(h)
+Superior medullary lamina
+Superior medullary velum
+Superior occipital gyrus(h)
+Superior olivary complex
+Superior parietal lobule
+Superior pontine sulcus
+Superior postcentral sulcus
+Superior precentral sulcus
+Superior ramus of arcuate sulcus(m)
+Superior rostral sulcus(h)
+Superior salivatory nucleus
+Superior semilunar lobule
+Superior temporal gyrus
+Superior temporal sulcus
+Superior thalamic peduncle
+Superior vestibular nucleus
+Supplementary Eye Fields
+Supplementary Motor Area
+Supplementary eye fields
+Supplementary motor area
+Supracallosal Gyrus
+Suprachiasmatic Nucleus
+Suprageniculate Nucleus
+Supramammillary Commissure
+Supramammillary Nucleus
+Supramammillary commissure
+Supramammillary nucleus
+Supramarginal Area 40(H)
+Supramarginal Gyrus
+Supramarginal area 40(H)
+Supramarginal gyrus
+Supraoptic Crest
+Supraoptic Nucleus
+Supraoptic crest
+Supraoptic nucleus
+Supraopticohypophysial Tract
+Suprapineal Recess
+Supraspinal Nucleus
+T4v
+TCd
+THP
+TL
+TM
+TS
+TV
+Tail Of Caudate Nucleus
+Tb
+Tc3v
+Tc4v
+Tclv
+Tdf
+Tec
+Tel
+Temporal Horn Of Lateral Ventricle
+Temporal Lobe
+Temporal Operculum
+Temporal Pole
+Temporal horn of lateral ventricle
+Temporal lobe
+Temporal operculum
+Temporal pole
+Temporopolar Area 38(H)
+Tenia Choroidea Of Lateral Ventricle
+Tenia Of Fimbria
+Tenia Of Fornix
+Tenia Of Fourth Ventricle
+Tenia Of Thalamus
+Tenia choroidea of lateral ventricle
+Tenia of fimbria
+Tenia of fornix
+Tenia of fourth ventricle
+Tenia of thalamus
+Terminal Nerve
+Terminal Sulcus
+Terminal nerve
+Terminal sulcus
+Tfb
+Tfx
+Th
+Tmp
+Tms
+Tnclv
+Tocs
+Top
+Tos
+Tp
+TrIFG
+Transverse Occipital Sulcus(h)
+Transverse Orbital Sulcus(h)
+Transverse Pontine Fibers
+Transverse Temporal Sulcus(h)
+Transverse occipital sulcus(h)
+Transverse orbital sulcus(h)
+Transverse pontine fibers
+Transverse temporal sulcus(h)
+Trapezoid Body
+Trapezoid Nuclei
+Trapezoid body
+Trapezoid nuclei
+Triangular Area 45
+Triangular Part Of Inferior Frontal Gyrus(h)
+Triangular Septal Nucleus
+Triangular area 45
+Triangular part of inferior frontal gyrus(h)
+Triangular septal nucleus
+Trigeminal Nerve
+Trigeminal Nuclei
+Trigeminal Tubercle
+Trigeminal nerve
+Trigeminal nuclei
+Trigeminal tubercle
+Trn
+Trochlear Nerve
+Trochlear Nucleus
+Trochlear nerve
+Trochlear nucleus
+Ts
+Tth
+Tts
+Tuber Cinereum
+Tuber Of Vermis
+Tuber cinereum
+Tuber of vermis
+Tuberal Part Of Hypophysis
+Tuberomammillary Nucleus
+Tz
+UD86-FST
+UD86-MST
+UD86-MT
+UD86-PO
+UD86-TEO
+UD86-TEc
+UD86-TEm
+UD86-TEr
+UD86-TF
+UD86-V1
+UD86-V2
+UD86-V3A
+UD86-V3d
+UD86-V3v
+UD86-V4
+UD86-VIP
+Un
+Uv
+V1
+V3
+V4
+V5
+V7
+VA
+VCo
+VIP
+VL
+VMG
+VMH
+VNG
+VP
+VRt
+VTA
+VTg
+Vaf
+Vagal Nerve Fibers
+Vagal Trigone
+Vagal nerve fibers
+Vagal trigone
+Vagus Nerve
+Vallecula Cerebelli
+Vas
+Vba
+Vcb
+Vcsp
+Ve
+Vi
+Vlcb
+Vlfmb
+Vls
+Vs
+Vtgx
+X
+ZI
+Zo
+aals
+abducens nerve
+abducens nucleus
+abv
+ac
+adenohypophysis
+afx
+agranular frontal area 6
+agranular insular area
+agranular retrolimbic area 30
+ahc
+ahls
+aic
+alar central lobule
+alv
+amdt
+amf
+amiculum of dentate nucleus
+amiculum of inferior olive
+amio
+aml
+amts
+amygdala
+angular gyrus
+annectant gyrus(M)
+ansa lenticularis
+ansa peduncularis
+ansiform lobule
+anterior accessory gyrus(h)
+anterior amygdaloid area
+anterior ascending limb of lateral sulcus(h)
+anterior calcarine sulcus(h)
+anterior cerebellar incisure
+anterior cingulate area
+anterior cingulate gyrus
+anterior column of fornix
+anterior commissure
+anterior forceps of corpus callosum
+anterior horizontal limb of lateral sulcus(h)
+anterior hypothalamic commissure
+anterior hypothalamic region
+anterior intraparietal area
+anterior intraparietal cortex
+anterior limb of internal capsule
+anterior lobe of cerebellum
+anterior median eminence
+anterior median fissure
+anterior median oculomotor nucleus
+anterior middle temporal sulcus(m)
+anterior nuclear group
+anterior nucleus of hypothalamus
+anterior occipital sulcus(h)
+anterior olfactory nucleus
+anterior parieto-occipital sulcus(m)
+anterior parolfactory sulcus(h)
+anterior part of anterior commissure
+anterior perforated substance
+anterior quadrangular lobule
+anterior spinocerebellar tract
+anterior subcentral sulcus(h)
+anterior thalamic peduncle
+anterior transverse temporal area 41(H)
+anterior transverse temporal gyrus(h)
+anterior tubercle
+anterodorsal nucleus
+anteromedial nucleus
+anteroventral cochlear nucleus
+anteroventral nucleus
+anteroventral periventricular nucleusb
+aocs
+ap
+arbor vitae
+archicortex
+arcuate nucleus of hypothalamus
+arcuate nucleus of medulla
+area 1 of Brodmann-1909
+area 1 of Mauss-1908
+area 1 of Peele-1942
+area 1 of Vogts-1919
+area 10 of Brodmann-1909
+area 10 of Mauss-1908
+area 10 of Walker-1940
+area 10a of Vogts-1919
+area 11 of Brodmann-1909
+area 11 of Mauss-1908
+area 11 of Walker-1940
+area 12 of Brodmann-1909
+area 12 of Mauss-1908
+area 12 of Walker-1940
+area 13 of Brodmann-1905
+area 13 of Mauss-1908
+area 13 of Walker-1940
+area 14 of Brodmann-1905
+area 14 of Mauss-1908
+area 14 of Walker-1940
+area 15 of Brodmann-1905
+area 15 of Mauss-1908
+area 16 of Brodmann-1905
+area 17 of Mauss-1908
+area 18 of Brodmann-1909
+area 18 of Mauss-1908
+area 19 of Brodmann-1909
+area 19 of Mauss-1908
+area 19 of Vogts-1919
+area 19a of Vogts-1919
+area 2 of Brodmann-1909
+area 2 of Mauss-1908
+area 2 of Peele-1942
+area 2 of Vogts-1919
+area 20 of Brodmann-1909
+area 20 of Mauss-1908
+area 21 of Brodmann-1909
+area 21 of Mauss-1908
+area 21 of Vogts-1919
+area 22 of Brodmann-1909
+area 22 of Mauss-1908
+area 22a beta of Vogts-1919
+area 22a of Vogts-1919
+area 23 of Brodmann-1909
+area 23 of Mauss-1908
+area 24 of Brodmann-1905
+area 24 of Mauss-1908
+area 24 of Walker-1940
+area 25 of Brodmann-1909
+area 25 of Walker-1940
+area 26 of Brodmann-1909
+area 26 of Mauss-1908
+area 27 of Brodmann-1909
+area 27 of Mauss-1908
+area 28 of Brodmann-1909
+area 28 of Mauss-1908
+area 3 of Brodmann-1909
+area 3 of Mauss-1908
+area 3 of Peele-1942
+area 3 of Vogts-1919
+area 30 of Mauss-1908
+area 32 of Brodmann-1909
+area 32 of Mauss-1908
+area 3a of Vogts-1919
+area 4 of Brodmann-1909
+area 4 of Mauss-1908
+area 4 of Vogts-1919
+area 43 of Brodmann-1909
+area 45 of Walker-1940
+area 4a of Vogts-1919
+area 5 of Brodmann-1909
+area 5 of Mauss-1908
+area 5 of Peele-1942
+area 5 of Vogts-1919
+area 5a of Vogts-1919
+area 6 of Brodmann-1909
+area 6 of Mauss-1908
+area 6 of Vogts-1919
+area 6 of Walker-1940
+area 6a alpha of Vogts-1919
+area 6a beta of Vogts-1919
+area 6a of Vogts-1919
+area 6b alpha of Vogts-1919
+area 6b beta of Vogts-1919
+area 6b of Vogts-1919
+area 7 of Brodmann-1909
+area 7 of Mauss-1908
+area 7 of Peele-1942
+area 7 of Vogts-1919
+area 7a of Vogts-1919
+area 8 alpha of Vogts-1919
+area 8 beta of Vogts-1919
+area 8 delta of Vogts-1919
+area 8 gamma of Vogts-1919
+area 8 of Brodmann-1909
+area 8 of Mauss-1908
+area 8 of Vogts-1919
+area 8 of Walker-1940
+area 8A of Walker-1940
+area 8a of Brodmann-1905
+area 9 of Brodmann-1909
+area 9 of Mauss-1908
+area 9 of Vogts-1919
+area 9 of Walker-1940
+area 9a of Vogts-1919
+area POJ
+area V1
+area V2
+area mIPS
+area postrema
+area x
+asc
+atp
+basal amygdaloid nucleus
+basal ganglia
+basal nucleus
+basal part of pons
+basilar sulcus
+basolateral nuclear group
+bcc
+bfx
+bic
+biventer lobulec
+body of caudate nucleus
+body of corpus callosum
+body of fornix
+body of lateral ventricle
+brachium of inferior colliculus
+bsc
+bss
+c11n
+cIPS
+ca1 field
+ca2 field
+ca3 field
+calamus scriptorius
+calcar avis
+calcarine sulcus
+callosal sulcus
+capsule of medial geniculate body
+capsule of red nucleus
+capsule of subthalamic nucleus
+cas
+caudal central oculomotor nucleus
+caudal cingulate zone
+caudal intraparietal sulcus
+caudal part of spinal trigeminal nucleus
+caudal part of ventral lateral nucleus
+caudal part of ventral posterolateral nucleus
+caudal pontine reticular nucleus
+caudate nucleus
+cav
+cbpa
+cbw
+cc
+central amygdaloid nucleus
+central canal
+central dorsal nucleus
+central gray substance of medulla
+central gray substance of midbrain
+central gray substance of pons
+central insular sulcus
+central lateral nucleus
+central lobule
+central medial nucleus
+central medullary reticular group
+central nucleus of inferior colliculus
+central oculomotor nucleus
+central sulcus
+central tegmental tract of midbrain
+central tegmental tract of pons
+centromedian nucleus
+cerebellar cortex
+cerebellar tonsil
+cerebellar white matter
+cerebellomedullary cistern
+cerebellopontine angle
+cerebellum
+cerebral aqueduct
+cerebral cortexd
+cerebral crus
+cerebral peduncle
+cerebral white matter
+cerebrocerebellar fissure
+cfx
+cgs
+chf
+chiasmatic cistern
+choroid plexus of fourth ventricle
+choroid plexus of lateral ventricle
+choroid plexus of third ventricle
+choroidal fissure
+cic
+cingulate cortex,area 1
+cingulate gyrus
+cingulate motor areas
+cingulate sulcus
+circular sulcus of insula
+cis
+claustral amygdaloid area
+claustrum
+clst
+clt
+cmcis
+cmg
+cochlear nuclei
+coe
+collateral eminence
+collateral sulcus
+collateral trigone
+commissural nucleus of vagus nerve
+commissure of fornix
+commissure of inferior colliculus
+corpus callosum
+cortical amygdaloid nucleus
+corticomedial nuclear group
+corticotectal tract
+cos
+cp3v
+cp4v
+cplv
+cr
+cs
+ctgmb
+ctgp
+ctt
+cu
+cw
+d5
+d7
+das
+db
+dea
+declive
+decussation of medial lemniscus
+decussation of superior cerebellar peduncleyz
+decussation of trochlear nerve
+deep cerebellar nuclei
+deep gray layer of superior colliculus
+deep white layer of superior colliculus
+densocellular part of medial dorsal nucleus
+dentate gyrus
+dentate nucleus
+dentatothalamic tract
+descending fibers of facial nerve
+dfm
+diagonal band
+diagonal sulcus(h)
+dias
+diencephalon
+diffuse reticular nucleus
+dis
+dlfh
+dlfm
+dlfp
+dls
+dms
+dorsal accessory inferior olivary nucleus
+dorsal acoustic stria
+dorsal cochlear nucleus
+dorsal entorhinal area 34
+dorsal external arcuate fibers
+dorsal hypothalamic area
+dorsal intermediate sulcus
+dorsal longitudinal fasciculus of hypothalamus
+dorsal longitudinal fasciculus of medulla
+dorsal longitudinal fasciculus of midbrain
+dorsal longitudinal fasciculus of pons
+dorsal median sulcus
+dorsal motor nucleus of vagus nerve
+dorsal nucleus of lateral geniculate body
+dorsal nucleus of lateral lemniscus
+dorsal nucleus of medial geniculate body
+dorsal oculomotor nucleus
+dorsal paragigantocellular nucleus
+dorsal paramedian reticular nucleus
+dorsal posterior cingulate area 31
+dorsal premotor cortex
+dorsal raphe nucleus
+dorsal septal nucleus
+dorsal spinocerebellar tract
+dorsal supraoptic decussation
+dorsal tegmental decussatione
+dorsal tegmental nucleus
+dorsal trigeminal tract
+dorsolateral fasciculus of medulla
+dorsolateral fissure of midbrain
+dorsolateral subnucleus of solitary tract
+dorsolateral sulcus
+dorsomedial nucleus of hypothalamus
+dorsomedial subnucleus of solitary tract
+dsc
+dsox
+dt
+ec
+emboliform nucleus
+eml
+entorhinal area
+epithalamus
+exc
+external capsule
+external medullary lamina
+external nucleus of inferior colliculus
+extrastriate body area
+extreme capsulef
+facial colliculus
+facial motor nucleus
+facial nerve
+fascia dentata
+fasciolar gyrus
+fastigial nucleus
+fastigium
+fc
+fd
+fi
+flocculonodular lobe
+flocculus
+folium
+foramen cecum anterior
+foramen cecum posterior
+forebrain
+fornixg
+fourth ventricle
+fro
+frp
+fsp
+ft
+funiculus separans
+fusiform face area
+fusiform gyrus
+fx
+g7
+gcc
+genu of corpus callosum
+genu of internal capsule
+gic
+gigantocellular nucleus
+gigantopyramidal area 4
+globose nucleus
+globus pallidus
+glossopharyngeal nerve
+gr
+gyrus rectus
+habenula
+habenulo-interpeduncular tract
+hbc
+hbs
+hbt
+hdg
+hdt
+head of caudate nucleus
+hemisphere of anterior lobe
+hemisphere of posterior lobe
+hilum of dentate nucleus
+hilum of inferior olive
+hilus of dentate gyrus
+hindbrain
+hio
+hip
+his
+horizontal fissurei
+hypoglossal nerve
+hypoglossal nucleus
+hypoglossal trigone
+hypophysis
+hypothalamic sulcus
+hypothalamus
+hys
+hzf
+ia
+ic
+ifol
+ifrs
+ifv
+ils
+iml
+imn
+imv
+induseum griseum
+inferior calcarine sulcus(m)
+inferior central nucleus
+inferior cerebellar peduncle
+inferior colliculus
+inferior fovea
+inferior frontal gyrus
+inferior frontal sulcus(h)
+inferior medullary lamina
+inferior medullary velum
+inferior occipital gyrus(m)
+inferior occipital sulcus(m)
+inferior olivary complex
+inferior parietal lobule
+inferior pontine sulcus
+inferior postcentral sulcus
+inferior precentral sulcus(h)
+inferior pulvinar nucleus
+inferior ramus of arcuate sulcus(m)
+inferior rostral sulcus(h)
+inferior salivatory nucleus
+inferior semilunar lobule
+inferior temporal gyrus
+inferior temporal sulcus(h)
+inferior thalamic peduncle
+inferior vestibular nucleus
+infundibular recess
+infundibular stem
+inml
+insula
+intercalated amygdaloid nuclei
+intermediate acoustic stria
+intermediate hypothalamic region
+intermediate nerve
+intermediate oculomotor nucleus
+intermediate part of hypophysis
+intermediate periventricular nucleus
+intermediate short gyrus(h)
+internal arcuate fibers
+internal capsule
+internal genu of facial nerve
+internal medullary lamina
+interpeduncular cistern
+interpeduncular fossa
+interpeduncular nucleus
+interpolar part of spinal trigeminal nucleus
+interstitial nucleus of cajal
+interstitial nucleus of vestibular nerve
+interthalamic adhesion
+interventricular foramenj
+intracingulate sulcus
+intralaminar nuclear group
+intralingual sulcus(h)
+intraparietal sulcus
+iocs
+ipcs
+ipf
+iprs
+ips
+iras
+iros
+islands of calleja
+isthmus of cingulate gyrus
+itha
+itp
+ivf
+juxtarestiform bodykl
+jx
+kinetic occipital area
+lamina affixa
+lamina of septum pellucidum
+lamina terminalis
+lateral amygdaloid nucleus
+lateral aperture of fourth ventricle
+lateral corticospinal tract
+lateral dorsal nucleus
+lateral eminence of hypophysis
+lateral geniculate body
+lateral globus pallidus
+lateral habenular nucleus
+lateral hypothalamic area
+lateral hypothalamic nucleus
+lateral intraparietal area
+lateral lemniscus
+lateral longitudinal stria
+lateral mammillary nucleus
+lateral medullary lamina
+lateral medullary reticular group
+lateral nuclear group
+lateral occipital gyrus(h)
+lateral occipital sulcus(h)
+lateral olfactory stria
+lateral orbital gyrus
+lateral orbital sulcus(m)
+lateral parabrachial nucleus
+lateral paragigantocellular nucleus
+lateral part of basal amygdaloid nucleus
+lateral part of medial mammillary nucleus
+lateral pericuneate nucleus
+lateral pes lemniscus
+lateral posterior nucleus
+lateral premotor cortex
+lateral preoptic nucleus
+lateral pulvinar nucleus
+lateral recess of fourth ventricle
+lateral reticular nucleus
+lateral septal nucleus
+lateral sulcus
+lateral superior olivary nucleus
+lateral temporal lobe
+lateral tuberal nuclei
+lateral ventricle
+lateral vestibular nucleusm
+lcsp
+lehp
+lemniscal trigone
+len
+lf
+limen of insula
+limitans nucleus
+linear nucleus
+lingual gyrus
+lingula
+ll
+lma
+lmi
+lml
+lmt
+lo
+lp
+ls
+ltic
+lunate sulcus
+lus
+magnocellular nucleus of medial geniculate body
+magnocellular part of medial dorsal nucleus
+magnocellular part of red nucleus
+magnocellular part of ventral anterior nucleus
+mammillary body
+mammillary peduncle
+mammillary princeps fasciculus
+mammillotegmental fasciculus
+mammillothalamic tract of hypothalamus
+mammillothalamic tract of thalamus
+marginal sulcus(h)
+mcp
+mdb
+mds
+me4v
+me5
+medial accessory inferior olivary nucleus
+medial amygdaloid nucleus
+medial dorsal nucleus
+medial eminence of fourth ventricle
+medial forebrain bundle
+medial geniculate body
+medial globus pallidus
+medial habenular nucleus
+medial lemniscus of medulla
+medial lemniscus of midbrain
+medial lemniscus of pons
+medial longitudinal fasciculus of medulla
+medial longitudinal fasciculus of midbrain
+medial longitudinal fasciculus of pons
+medial longitudinal stria
+medial mammillary nucleus
+medial medullary lamina
+medial oculomotor nucleus
+medial olfactory gyrus
+medial orbital gyrus
+medial orbital sulcus(m)
+medial parabrachial nucleus
+medial part of basal amygdaloid nucleus
+medial part of medial mammillary nucleus
+medial part of ventral lateral nucleus
+medial pericuneate nucleus
+medial pes lemniscus
+medial preoptic nucleus
+medial pulvinar nucleus
+medial septal nucleus
+medial subnucleus of solitary tract
+medial superior olivary nucleus
+medial vestibular nucleus
+median aperture of fourth ventricle
+median eminence
+median preoptic nucleus
+median sulcus
+medulla oblongata
+medullary anterior horn
+medullary body
+medullary reticular formation
+medullary white matter
+mesencephalic nucleus of trigeminal nerve
+mesencephalic tract of trigeminal nerve
+metathalamus
+metencephalon
+mfb
+mfs
+midbrain
+middle cerebellar peduncle
+middle frontal area 46
+middle frontal gyrus
+middle frontal sulcus(h)
+middle gray layer of superior colliculus
+middle temporal gyrus
+middle temporal sulcus(m)
+middle white layer of superior colliculusn
+midline nuclear group
+mlfm
+mlfp
+mlm
+mlp
+mls
+mlx
+mmb
+mml
+mo5
+mos
+motor nucleus of trigeminal nerve
+motor root of trigeminal nerve
+mpe
+mpl
+mpr
+mtg
+mthh
+mthth
+mts
+mw
+neodentate part of dentate nucleus
+neurohypophysiso
+nodulus
+nucleus accumbens
+nucleus ambiguus
+nucleus intercalatus
+nucleus of ansa lenticularis
+nucleus of anterior commissure
+nucleus of darkschewitsch
+nucleus of diagonal band
+nucleus of field h
+nucleus of lateral olfactory tract
+nucleus of medial eminence
+nucleus of optic tract
+nucleus of posterior commissure
+nucleus of pretectal area
+nucleus of stria terminalis
+nucleus prepositus
+nucleus raphe magnus
+nucleus raphe obscurus
+nucleus raphe pallidus
+nucleus subceruleus
+ob
+oc
+olf
+olivary pretectal nucleus
+olivocerebellar tract
+olivocochlear bundle
+olt
+opercular area 44
+opercular part of inferior frontal gyrus(h)
+opt
+oral part of spinal trigeminal nucleus
+oral part of ventral lateral nucleus
+oral part of ventral posterolateral nucleus
+oral pontine reticular nucleus
+oral pulvinar nucleus
+orbital area 47
+orbital gyri
+orbital operculum
+orbital part of inferior frontal gyrus(h)
+orbital sulcus(h)
+orbs
+oro
+ots
+ox
+paleodentate part of dentate nucleus
+pallidohabenular bundle
+pallidotegmental fasciculus
+pals
+pao
+parabigeminal nucleus
+paracentral nucleus
+paracentral sulcus(h)
+parafascicular nucleus
+paraflocculus
+parahippocampal gyrus
+parahippocampal place area
+parainsular area 52(H)
+paralaminar part of medial dorsal nucleus
+paramedian medullary reticular group
+parastriate area 18
+parasubicular area
+paratenial nucleus
+paraterminal gyrus
+paratrigeminal nucleus
+paraventricular nucleus of hypothalamus
+paraventricular nucleus of thalamus
+parietal lobe
+parietal operculum
+parieto-occipital eminence
+parieto-occipital sulcus
+pars compacta
+pars nervosa of hypophysis
+pars postrema of ventral lateral nucleus
+pars reticulata
+parvicellular part of medial dorsal nucleus
+parvicellular part of ventral anterior nucleus
+parvicellular part of ventral posteromedial nucleus
+parvicellular reticular nucleus
+parvicellular subnucleus of solitary tract
+parvocellular oculomotor nucleus
+parvocellular part of red nucleus
+pc
+pd
+peduncle of flocculus
+peduncle of superior olive
+pedunculopontine tegmental nucleus
+periamygdaloid area
+pericentral nucleus of inferior colliculus
+periolivary nucleus
+peripaleocortical claustral region
+peripeduncular nucleus
+perirhinal area 35
+peristriate area 19
+peritrigeminal nucleus
+pfcb
+pfl
+pfx
+phb
+pic
+pineal body
+pineal recess
+plf
+pms
+pmts
+poce
+pocs
+pofcb
+pofx
+pon
+pos
+ppos
+ppyf
+pre-PMd
+pre-SMA
+pre-supplementary motor area
+precentral fissure of cerebellum
+precentral gyrus
+precentral operculum
+precommissural fornix
+precuneus
+predorsal bundle
+prefrontal area 11 of Brodmann-1909
+pregenual area 33
+premammillary nucleus
+premotor cortex
+preoccipital notch
+preolivary nucleus
+preoptic area
+preoptic periventricular nucleus
+prepyramidal fissure
+prepyriform area
+presubiculum
+pretectal region
+prfcb
+primary auditory area
+primary auditory cortex
+primary fissure of cerebellum
+primary motor cortex
+primary visual cortex
+principal inferior olivary nucleus
+principal part of ventral posteromedial nucleus
+principal pretectal nucleus
+principal sensory nucleus of trigeminal nerve
+principal sulcus(m)
+pro
+prs
+pscs
+psf
+pso
+ptf
+ptp
+pulvinar
+putamen
+py
+raphe nuclei of medulla
+rcc
+red nucleus
+reticulospinal tract
+reticulotegmental nucleuss
+retro-olivary cell group
+retro-olivary sulcus
+retrochiasmatic area
+retrolenticular part of internal capsule
+retrosubicular area 48
+reuniens nucleus
+rhf
+rhinal sulcus
+rhomboid fossa
+rhomboidal nucleus
+rhs
+rlic
+rols
+ros
+rs
+rts
+rubrospinal tract
+sbps
+scc
+scf
+scis
+scp
+second auditory area
+second posterior central gyrus(h)
+second short gyrus(h)
+secondary auditory cortex,dorsal area
+secondary auditory cortex,ventral area
+secondary fissure
+semioval center
+septal nuclei
+septofimbrial nucleus
+septum
+sf
+short insular gyri(h)
+simian fossa(m)
+simple lobule
+slic
+slm
+sm
+soh
+sol
+sovc
+sp5m
+sp5p
+spcs
+spinal trigeminal nucleus
+spinal trigeminal tract of medulla
+spinal trigeminal tract of pons
+spino-olivary tract
+spinothalamic tract of medulla
+spinothalamic tract of midbrain
+spinothalamic tract of pons
+splenium of corpus callosum
+spo
+sprs
+sps
+spt
+sras
+sros
+st
+subcallosal area
+subcommissural organ
+subcuneiform nucleus
+subfascicular nucleus
+subfornical organ
+subgenual area 25
+subiculum
+sublenticular part of internal capsule
+sublentiform nucleus
+sublingual nucleus
+submedial nucleus
+subparietal sulcus
+substantia innominata
+substantia nigra
+subthalamic nucleus
+subthalamus
+sulcus limitans
+sumx
+superficial gray layer of superior colliculus
+superficial white layer of superior colliculus
+superior calcarine sulcus(m)
+superior central nucleus
+superior cerebellar peduncle
+superior cistern
+superior colliculus
+superior fovea
+superior frontal gyrus
+superior frontal sulcus(h)
+superior medullary lamina
+superior medullary velum
+superior occipital gyrus(h)
+superior olivary complex
+superior parietal lobule
+superior pontine sulcus
+superior postcentral sulcus
+superior precentral sulcus
+superior ramus of arcuate sulcus(m)
+superior rostral sulcus(h)
+superior salivatory nucleus
+superior semilunar lobule
+superior temporal gyrus
+superior temporal sulcus
+superior thalamic peduncle
+superior vestibular nucleus
+supplementary eye fields
+supplementary motor area
+supracallosal gyrus
+suprachiasmatic nucleus
+suprageniculate nucleus
+supramammillary commissure
+supramammillary nucleus
+supramarginal area 40(H)
+supramarginal gyrus
+supraoptic crest
+supraoptic nucleus
+supraopticohypophysial tract
+suprapineal recess
+supraspinal nucleus
+t4v
+tail of caudate nucleus
+tb
+tc3v
+tc4v
+tclv
+tdf
+tectobulbar tract
+tectopontine tract
+tectospinal tract
+tectum
+tela choroidea of fourth ventricle
+tela choroidea of lateral ventricle
+tela choroidea of third ventricle
+telencephalon
+telodiencephalic fissure
+temporal horn of lateral ventricle
+temporal lobe
+temporal operculum
+temporal pole
+temporopolar area 38(H)
+tenia choroidea of lateral ventricle
+tenia of fimbria
+tenia of fornix
+tenia of fourth ventricle
+tenia of thalamus
+terminal nerve
+terminal sulcus
+tfb
+tfx
+thalamic fiber tracts
+thalamic reticular nucleus
+thalamus
+thf
+third ventricle
+tmp
+tms
+tnclv
+tocs
+top
+tos
+tp
+transverse occipital sulcus(h)
+transverse orbital sulcus(h)
+transverse pontine fibers
+transverse temporal sulcus(h)
+trapezoid body
+trapezoid nuclei
+triangular area 45
+triangular part of inferior frontal gyrus(h)
+triangular septal nucleus
+trigeminal nerve
+trigeminal nuclei
+trigeminal tubercle
+trn
+trochlear nerve
+trochlear nucleus
+ts
+tth
+tts
+tuber cinereum
+tuber of vermis
+tuberal part of hypophysis
+tuberomammillary nucleus
+tz
+un
+uvulav
+v5
+vaf
+vagal nerve fibers
+vagal trigone
+vagus nerve
+vallecula cerebelli
+vas
+vba
+vcb
+vcsp
+vea
+velum interpositum
+ventral acoustic stria
+ventral amygdalofugal projection
+ventral anterior nucleus
+ventral cochlear nuclei
+ventral corticospinal tract
+ventral external arcuate fibers
+ventral intraparietal area
+ventral lateral nucleus
+ventral nuclear group
+ventral nucleus of lateral geniculate body
+ventral nucleus of lateral lemniscus
+ventral nucleus of medial geniculate body
+ventral oculomotor nucleus
+ventral paramedian reticular nucleus
+ventral posterior nucleus
+ventral posteroinferior nucleus
+ventral posterolateral nucleus
+ventral posteromedial nucleus
+ventral premotor cortex
+ventral reticular nucleus
+ventral supraoptic decussation
+ventral tegmental area
+ventral tegmental decussation
+ventral tegmental nucleus
+ventral temporal lobe
+ventral trigeminal tract
+ventrolateral fissure of midbrain
+ventrolateral subnucleus of solitary tract
+ventrolateral sulcus
+ventromedial nucleus of hypothalamus
+vermis of anterior lobe
+vermis of posterior lobe
+vestibular area
+vestibular nuclei
+vestibulocerebellar tract
+vestibulocochlear nerve
+vestibulospinal tract
+vi
+vlcb
+vlfmb
+vls
+vs
+vtgx
+xscp
+zona incerta
+zonal layer of superior colliculus
