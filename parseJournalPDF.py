@@ -5,7 +5,7 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
 import numpy
-
+import nltk
 
 
 def convert_pdf_to_txt(path):
@@ -23,7 +23,7 @@ def convert_pdf_to_txt(path):
     
     #figure out a better way to do this, maybe not hardcoded?
     # 1 in on all sides, 1 in = 96 pixels
-    cropDim=[95, 95, -95, -95]
+    cropDim=[50, 50, -50, -50]
 
     for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
         #mediabox works, crobox does not
@@ -48,6 +48,8 @@ def convert_pdf_to_txt(path):
     text = text.replace('p.','page')
     #replace abbreviation
     text = text.replace('Fig.','Figure')
+    #replace abbreviation
+    text = text.replace('\x0c',' ')
     #completely remove abbreviated names, just a brute force tactic.
     #text = text.replace('[A-Z]\.[A-Z]\.','')
     
@@ -68,7 +70,7 @@ def clean_journal_pdf(path):
     if len([i for i, x in enumerate(wordProto) if x == "Introduction"])>0:
         introductionInd = [i for i, x in enumerate(wordProto) if x == "Introduction"]
     else:
-        introductionInd = list(0)
+        introductionInd = [0]
     
     #find potential endingPoint, default usage makes robust against empty,
     #max usage ensures final instance of word
@@ -112,14 +114,57 @@ def clean_journal_pdf(path):
     pdfCleaned=''.join(pdfTextList)
     return pdfCleaned
 
-pdfCleaned=clean_journal_pdf('/N/u/dnbulloc/Carbonate/PDFs/PDFs/1-s2.0-S0959438800001963-main.pdf')
+
+def make_corpus_freq_matricies(corpusTextString):
+    corpusTextStringLower=corpusTextString.lower()
+    sentencesProto=corpusTextStringLower.split('. ')
+    
+    #temporary hardcoding to anatomy terms
+    anatTermsObject=open('/N/u/dnbulloc/Carbonate/PDFs/Code/Lexicons/AnatomicalTermsTemp','r')
+    anatTerms = anatTermsObject.read().split('\n')
+    
+    #fix due to last newline
+    anatTerms=anatTerms[0:-1]
+    
+    #initialize index matrix
+    AnatIndex=numpy.zeros((len(sentencesProto),len(anatTerms)))
+    
+    #iterate over sentences
+    for iSentence in range(len(sentencesProto)):
+        for iAnat in range(len(anatTerms)):
+            curSentence=sentencesProto[iSentence]
+            curWords=curSentence.split(' ')
+            #https://docs.python.org/3/glossary.html#term-lbyl
+            AnatIndex[iSentence,iAnat]=curWords.index(anatTerms[iAnat]) if anatTerms[iAnat] in curWords else numpy.nan
+            
+    #temporary hardcoding to positional terms
+    positTermsObject=open('/N/u/dnbulloc/Carbonate/PDFs/Code/Lexicons/PositionalTerms','r')
+    positTerms = anatTermsObject.read().split('\n')
+        
+    for iSentence in range(len(sentencesProto)):
+        #the logic is that at least two of the words are anatomy terms
+        if sum(not numpy.isnan(AnatIndex[iSentence,:]).count('True')])
+    
+    
+    #temporary hardcoding to positional terms
+    positionalTermsObject=open('/N/u/dnbulloc/Carbonate/PDFs/Code/Lexicons/AnatomicalTermsTemp','r')
+    positionalTerms = file.read().split('\n')
+
+    
+
+
+
+
+
+corpusTextString=clean_journal_pdf('/gpfs/home/d/n/dnbulloc/Carbonate/PDFs/PDFs/Bullock et al. Posterior Vertical Associative White Matter - ARXIV.pdf')
 
 sentencesProto=pdfCleaned.split('. ')
  
+testSentence=sentencesProto[1]
 
 
 
-path='/N/u/dnbulloc/Carbonate/PDFs/PDFs/1-s2.0-S0959438800001963-main.pdf'
+path='/N/u/dnbulloc/Carbonate/PDFs/PDFs/7604.full.pdf'
 
 
 pageOut=PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True)
