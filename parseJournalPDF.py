@@ -30,35 +30,35 @@ def convert_pdf_to_txt(path):
         #maybe replace this with https://pypi.org/project/pdfCropMargins/
         page.mediabox=numpy.ndarray.tolist(numpy.add(page.cropbox,cropDim))
         interpreter.process_page(page)
+        
+    #impliment term replacement function here.
 
     text = retstr.getvalue()
-    #clean newlines out
-    text = text.replace('\n',' ')
-    #join hyphen line splits
-    text = text.replace('- ','')
-    #get rid of troublsome period
-    text = text.replace('et al.','et al')
-    #replace abbreviation
-    text = text.replace('cf.','compare')
-    #replace abbreviation
-    text = text.replace('i.e.','in other words')
-    #replace abbreviation
-    text = text.replace('e.g.','for example')
-    #replace abbreviation
-    text = text.replace('p.','page')
-    #replace abbreviation
-    text = text.replace('Fig.','Figure')
-    #replace abbreviation
-    text = text.replace('\x0c',' ')
-    #completely remove abbreviated names, just a brute force tactic.
-    #text = text.replace('[A-Z]\.[A-Z]\.','')
-    
-    #what do we do about numbers
+
+
     
     fp.close()
     device.close()
     retstr.close()
     return text
+
+def replace_text_terms(text):
+    #clean newlines out
+    text = text.replace('\n',' ')
+    #join hyphen line splits
+    text = text.replace('- ','')
+    #replace abbreviation
+    text = text.replace('\x0c',' ')
+    import csv
+    with open('/N/u/dnbulloc/Carbonate/PDFs/Code/Lexicons/ReplaceTerms', newline='\n') as csvfile:
+        replaceText = csv.reader(csvfile, delimiter=',')
+        for row in replaceText:
+            dates.append(row[0])
+            scores.append(row[1])
+    
+    return text
+
+
 
 #define clean journal function
 def clean_journal_pdf(path):
@@ -114,6 +114,11 @@ def clean_journal_pdf(path):
     pdfCleaned=''.join(pdfTextList)
     return pdfCleaned
 
+#from https://www.geeksforgeeks.org/python-intersection-two-lists/
+def intersection(lst1, lst2): 
+    lst3 = [value for value in lst1 if value in lst2] 
+    return lst3 
+
 
 def make_corpus_freq_matricies(corpusTextString):
     corpusTextStringLower=corpusTextString.lower()
@@ -143,12 +148,12 @@ def make_corpus_freq_matricies(corpusTextString):
         
     for iSentence in range(len(sentencesProto)):
         #the logic is that at least two of the words are anatomy terms
-        if sum(not numpy.isnan(AnatIndex[iSentence,:]).count('True')])
+        numpy.count_nonzero(~numpy.isnan(AnatIndex[iSentence,:]))
+        if numpy.count_nonzero(~numpy.isnan(AnatIndex[iSentence,:]))>=2:
+            print(sentencesProto[iSentence])
     
     
-    #temporary hardcoding to positional terms
-    positionalTermsObject=open('/N/u/dnbulloc/Carbonate/PDFs/Code/Lexicons/AnatomicalTermsTemp','r')
-    positionalTerms = file.read().split('\n')
+
 
     
 
