@@ -35,7 +35,6 @@ def convert_pdf_to_txt(path):
 
     text = retstr.getvalue()
 
-
     
     fp.close()
     device.close()
@@ -43,19 +42,18 @@ def convert_pdf_to_txt(path):
     return text
 
 def replace_text_terms(text):
-    #clean newlines out
-    text = text.replace('\n',' ')
-    #join hyphen line splits
-    text = text.replace('- ','')
-    #replace abbreviation
-    text = text.replace('\x0c',' ')
+
+    replaceTarget=[]
+    replaceWith=[]
+    #NOTE:  THE ORDER OR ENTITES IN THE ReplaceTerms csv MATTERS
     import csv
     with open('/N/u/dnbulloc/Carbonate/PDFs/Code/Lexicons/ReplaceTerms', newline='\n') as csvfile:
         replaceText = csv.reader(csvfile, delimiter=',')
-        for row in replaceText:
-            dates.append(row[0])
-            scores.append(row[1])
-    
+    for row in replaceText:
+        replaceTarget.append(row[0])
+        replaceWith.append(row[1])
+    for iReplace in range(len(replaceTarget)):
+            text = text.replace(replaceTarget[iReplace],replaceWith[iReplace])
     return text
 
 
@@ -64,6 +62,8 @@ def replace_text_terms(text):
 def clean_journal_pdf(path):
     #get 'raw' pdf output.  Truely though, the convert function does some of its own  
     out=convert_pdf_to_txt(path)
+    out=replace_text_terms(out)
+    
     wordProto=out.split(' ')
     
     #find starting point index, defaults to 0 if introduction isnt found
